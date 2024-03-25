@@ -1,6 +1,5 @@
 /**
  * Addien Zakia Hidayat
- * 5002231063
  * Departemen Matematika
  */
 
